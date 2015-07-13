@@ -1,7 +1,3 @@
-# ambient-light
-Responsive Interface with Ambient Light
-
-
 # Ambient Light
 Responsive Interface with Ambient Light.
 
