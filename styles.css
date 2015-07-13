@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+html, input {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
+
+html {
+    -ms-text-size-adjust: none;
+}
+
+html, body {
+    padding: 0;
+    margin: 1em;
+    height: 100%;
+}
+
+body,
+body.normal {
+  background-color: #E2E2E2;
+  color: #111;
+}
+
+body.dark {
+  background-color: #111;
+  color: #fff;
+}
+
+body.bright {
+  background-color: #fff;
+  color: #333;
+}
+
+#ale, #lle {
+  color: #FF3939;
+}
+
+header {
+    margin-bottom: 1em;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 3.375rem;
+    text-transform: lowercase;
+}
